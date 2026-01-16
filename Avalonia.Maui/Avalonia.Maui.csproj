@@ -46,7 +46,7 @@
 	<!-- Packaging -->
 	<PropertyGroup>
 		<IsPackable>true</IsPackable>
-		<Version>12.0.0-optiq01</Version>
+		<Version>12.0.0-optiq02</Version>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
 		<RepositoryUrl>https://github.com/AvaloniaUI/AvaloniaMauiHybrid</RepositoryUrl>
 		<PackageTags>opti-q;avalonia;avaloniaui;maui;android;ios</PackageTags>
