@@ -91,7 +91,7 @@ namespace Avalonia.Maui.Windows
                 MaxWidth = window.Bounds.Width,
                 SizeToContent = SizeToContent.WidthAndHeight,
                 ExtendClientAreaToDecorationsHint = true,
-                SystemDecorations = SystemDecorations.None,
+                WindowDecorations = WindowDecorations.None,
                 WindowState = WindowState.Normal
             };
 

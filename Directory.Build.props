@@ -1,8 +1,8 @@
 <Project>
   <PropertyGroup>
 	  <!--nightly build from Jan 15-->
-	  <AvaloniaVersion>12.0.999-cibuild0061481-alpha</AvaloniaVersion>
-    <AvaloniaSamplesVersion>12.0.999-cibuild0061481-alpha</AvaloniaSamplesVersion>
+	  <AvaloniaVersion>12.0.0-rc1</AvaloniaVersion>
+    <AvaloniaSamplesVersion>12.0.0-rc1</AvaloniaSamplesVersion>
     <MauiVersion>10.0.20</MauiVersion>
     <MauiSamplesVersion>10.0.20</MauiSamplesVersion>
     <Nullable>enable</Nullable>

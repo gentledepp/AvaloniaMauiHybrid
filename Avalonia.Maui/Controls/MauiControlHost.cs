@@ -40,7 +40,7 @@ public class MauiControlHost : NativeControlHost
     private ContentView? _page;
 
     public static readonly DirectProperty<MauiControlHost, View?> ContentProperty =
-        AvaloniaProperty.RegisterDirect<MauiControlHost, View?>(nameof(ContentPage), o => o.Content,
+        AvaloniaProperty.RegisterDirect<MauiControlHost, View?>(nameof(Microsoft.Maui.Controls.ContentPage), o => o.Content,
             (o, v) => o.Content = v);
 
     [Content]
